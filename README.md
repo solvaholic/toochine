@@ -15,11 +15,11 @@ and https://gist.github.com/PurpleBooth/109311bb0361f32d87a2
 - Is the project ready for production?
 -->
 
-# It's a Toochine!
+# It's Toochine!
 
 Which may not look like much right now. @solvaholic is organizing some sandboxes, toys, and playground equipment, and Toochine will become an experiment hub.
 
-Until then, keep Safe Search on while you're looking for other references to "Toochine". :roll_eyes:
+Until then, keep Safe Search on while you're looking for other references to "Toochine".
 
 <!---
 ## Getting Started
